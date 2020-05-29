@@ -1,5 +1,12 @@
 package sample;
 
+// Add Git to project: 05/28/2020.
+//https://github.com/pomberts/projects.git
+//
+// Utility program created by: Sylvain Pombert.
+// This program create list of Bluetooth radio
+// can be paired. (Name & Address).
+
 import javafx.application.Application;
 import javafx.event.EventHandler;
 import javafx.fxml.FXMLLoader;
